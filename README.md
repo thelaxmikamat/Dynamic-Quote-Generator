@@ -3,6 +3,10 @@
 A simple and interactive **Dynamic Quote Generator** built with **HTML, CSS and JavaScript**.
 It displays an inspirational quote inside a styled UI container, making it a great beginner-friendly mini-project.
 
+🔗 Link:
+
+* ✅ Check it out here: [Live Project](https://thelaxmikamat.github.io/Dynamic-Quote-Generator/)
+
 ## 🚀 **Features**
 
 * 🎯 Displays dynamic, inspirational quotes
