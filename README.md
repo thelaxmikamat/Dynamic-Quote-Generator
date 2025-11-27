@@ -33,5 +33,7 @@ index.js
 ## 🚀 **How to Run**
 
 ● Download or clone the repository.
+
 ● Open index.html.
+
 ● That’s it — your quote generator runs instantly.
